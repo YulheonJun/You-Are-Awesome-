@@ -12,7 +12,6 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var messageLabel: UILabel!
     
-    @IBOutlet weak var messageLabel2: UILabel!
     
     // Code below executes when the app's view first first loads
     override func viewDidLoad() {
